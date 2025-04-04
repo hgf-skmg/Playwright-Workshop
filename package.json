@@ -1,0 +1,22 @@
+{
+  "name": "playwright-workshop",
+  "version": "1.0.0",
+  "description": "This is a test repository for the Playwright workshop",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgf-skmg/Playwright-Workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgf-skmg/Playwright-Workshop/issues"
+  },
+  "homepage": "https://github.com/hgf-skmg/Playwright-Workshop#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  }
+}
